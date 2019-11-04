@@ -1,150 +1,152 @@
-## Frontend Focus
-### The Current State of Styling `<select>` in 2019
+## 聚焦前端
+### 现如今的select样式
 <https://css-tricks.com/the-current-state-of-styling-selects-in-2019/>
-If you’ve ever tried styling form controls with CSS, you’ve probably had a bad time (at least initially). Drop-down select elements are particularly thorny. Here’s a look at the basics and what developers really want.
-*CHRIS COYIER*
+如果你曾经尝试用CSS美化表格组件，你可能在最初的时候有一个糟糕的体验，尤其是下拉列表select元素特别棘手。这篇文章介绍了基础知识，以及开发者真正想了解的东西。
+*来源：CHRIS COYIER*
 
-### In October 1991, Tim Berners-Lee Published a Document Called 'HTML Tags' 
+### 在1991年10月，Tim Berners-Lee发布了一份名为“HTML 标签”的文档
 <https://www.webdesignmuseum.org/web-design-history/tim-berners-lee-published-a-document-called-html-tags-1991>
-It’s been 28 years (and one day) since Tim Berners-Lee wrote a document outlining descriptions of the first 18 HTML tags. Bonus points if you can name them all before clicking through. 😉
-*WEB DESIGN MUSEUM*
+28年前，互联网先驱Tim Berners-Lee发布了一份名为HTML标签的文档，该文件包含最开始的的18个HTML标签的说明。重点是你能否在查看文章之前想出这些标签的名字。
+*来源：WEB DESIGN MUSEUM*
 
-### Design for Developers ✨ New Course by Sarah Drasner 
+### Sarah Drasner为开发者开设的新课程
 <https://frontendmasters.com/courses/design-for-developers/>
 Become more self-sufficient for the entire process for execution, from concept to design to implementation. Understand the rules for designing and learn to create complex and beautiful front-end experiences.
-*FRONTEND MASTERS*(SPONSOR)
+从概念到设计再到实现，整个过程变得更加独立自主。这门新课程可以使开发者了解设计规则，学习创建复杂的项目，有一个美好的前端体验。
+*来源：FRONTEND MASTERS*(SPONSOR)
 
-### Google to Stop Indexing Flash Content 
+### 谷歌将停止对Flash的支持
 <https://webmasters.googleblog.com/2019/10/goodbye-flash.html>
-...by the end of this year. This ties in with Adobe's (and others') plans to stop supporting it by the end of 2020. With this, another interesting era of the Web passes into history.
-*GOOGLE*
+到今年年底，谷歌将停止对Flash的支持。这个和Adobe以及其他公司计划在2020年底停止支持Flash有关。由此，有Flash的这段有趣的web时代将成为历史。
+*来源：GOOGLE*
 
-### Are There Random Numbers in CSS?
+### CSS中有随机数吗？
 <https://css-tricks.com/are-there-random-numbers-in-css/>
-Certainly an interesting trick for generating pseudo-random outcomes in CSS alone. The randomness is questionable, but usable for casual situations.
-*ALVARO MONTORO*
+当然，仅在CSS中生成伪随机结果是一个很有趣的技巧。虽然这个随机结果的随机性还是指的怀疑的，但是在一些很少见的情况下可以用。
+*来源：ALVARO MONTORO*
 
-### Auditing For Accessibility Problems With Firefox Developer Tools 
+### Firefox开发者工具中的可访问检查器的介绍
 <https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/>
-An overview of the Accessibility Inspector in Firefox 70’s dev tools, explaining how this auditing facility helps identify/fix common mistakes and practices that reduce site accessibility.
-*MOZILLA HACKS*
+关于Firefox70的开发工具中的可访问检查器的概述，这篇文章解释了这个审查工具如何帮助识别或修复减少站点可访问性的常见错误和做法。
+*来源：MOZILLA HACKS*
 
-### HTMHell - A Collection of Bad Practices in HTML, Copied From Real Websites
+### HTMLHell - 从实际运行的网站上复制的HTML不良使用的集合
 <https://www.htmhell.dev/>
-This site seems relatively new, but is a growing collection of real-world examples of things you may not want to do. Submissions are being taken.
-*MANUEL MATUZOVIĆ*
+这个网站看上去相对较新，你可能想不到的是，那些真实案例的数量在不断增长。
+*来源：MANUEL MATUZOVIĆ*
 
-## 💻 Jobs
-### Senior Product Designer - Buildkite (Remote) 
+## 💻 招聘
+### 高级产品设计师 - Buildkite（远程）
 <https://buildkite.com/careers/senior-product-designer>
-Help shape a tool that thousands of developers use every day. Join our small team and have the chance to influence our product.
-*BUILDKITE*
+帮助塑造成千上万的开发者每天使用的工具。加入我们的小团队，你将有机会影响我们的产品。
+*来源：BUILDKITE*
 
-### Have You Tried Vettery? 
+### 你想来Vettery试试吗？
 <https://www.vettery.com/tech?utm_source=newsletter&utm_medium=cooper-frontendfocus&utm_term=tech&utm_content=grouped&utm_campaign=ad-77580>
-Vettery specializes in tech roles and is completely free for job seekers. Create a profile to get started.
-*VETTERY*
+Vettery专门从事技术相关的职位，对求职者完全免费。来投递简历吧。
+*来源：VETTERY*
 
-## 📙 Articles, Tutorials & Opinion
-###  Inner & Outer Values of the Display Property 
+## 📙 文章、教程和建议
+### 显示内部和外部的属性
 <https://www.youtube.com/watch?v=4Clyc38U-MA&feature=youtu.be>
-Last week’s issue made mention of the fact that Firefox now supports the use of multiple values in the display property. Here’s a look at how.
-*MOZILLA DEVELOPER*
+上周的一期中提到了Firefox现在支持在display属性中使用多个值，可以点击看看到底是怎样的。
+*来源：MOZILLA DEVELOPER*
 
-### What's New In DevTools In Chrome 79 
+### Chrome79开发者工具新增的功能
 <https://developers.google.com/web/updates/2019/10/devtools>
-Including new cookie debugging, color scheme simulation options, code coverage updates, and more.
-*GOOGLE DEVELOPERS*
+包括新的Cookie调试，配色方案模拟选项，代码覆盖更新等功能。
+*来源：GOOGLE DEVELOPERS*
 
-### Speed Up Your Website With WebP 
+### 使用WebP加快网站访问速度
 <https://www.smashingmagazine.com/2019/10/speed-up-your-website-webp/>
 A thorough overview of Google’s WebP image format, highlighting its advantages, how it works and how to use it. (I was surprised to learn it has been nearly a decade since the format was first introduced.)
-*SUZANNE SCACCA*
+全面概述Google的webp图像格式，重点介绍了其优势、工作原理和使用方法。（令我惊讶的是，自从首次被提出后已经过去十年了）
+*来源：SUZANNE SCACCA*
 
-### Why Parcel Has Become My Go-To Bundler for Development 
+### 为什么Parcel成为我开发打包的首选工具
 <https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/>
-A run-down on what the popular web application bundler can offer, plus how you might start to using it in your own projects.
-*MAKS AKYMENKO*
+一个流行的网页打包工具的精简版，以及如何开始在你自己的项目中使用Parcel。
+*来源：MAKS AKYMENKO*
 
-### Why Are Accessible Websites so Hard to Build? 
+### 为什么搭建一个可以访问的网站这么难？
 <https://css-tricks.com/why-are-accessible-websites-so-hard-to-build/>
-Robin Rendle asks why seemingly so many companies struggle at making accessible websites (looking at you Domino’s), and offers up an idea on how text editors could help by way of included accessibility checkers. Stefan Judis expands on this proposing that browser dev consoles could do similar checks.
-*ROBIN RENDLE*
+Robin Rendle问为什么这么多公司在建立可访问的网站上苦苦挣扎，并提出了一个想法，关于文本编辑器如何通过附带的可访问检查器提供帮助。Stefan Judis在这个建议的基础上提出了浏览器开发工具也可以做同样的检查。
+*来源：ROBIN RENDLE*
 
-### The React Hooks Guide: In-depth Tutorial with Examples. Start Learning
+### React Hooks指南：有示例可深入学习的教程。开始学习
 <https://www.telerik.com/kendo-react-ui/react-hooks-guide/?utm_medium=cpm&utm_source=frontendfocus&utm_campaign=kendo-ui-react-blog-react-hooks-guide&utm_content=brieflink>
-*PROGRESS KENDOREACT*(SPONSOR)
+*来源：PROGRESS KENDOREACT*(SPONSOR)
 
-### Bidirectional Horizontal Rules in CSS 
+### CSS中的双向水平规则
 <https://dev.to/hus_hmd/bidirectional-horizontal-rules-in-css-56f4>
-A straightforward tutorial looking at how to use CSS’s logical properties to support both LTR and RTL layouts.
-*HUSSEIN AL HAMMAD*
+一个直观的教程，讲解如何使用CSS的逻辑属性来支持LTR个RTL布局。
+*来源：HUSSEIN AL HAMMAD*
 
-### CSS Utility Classes: Your Library of Extendable Styles
+### CSS工具类：你的可扩展样式库
 <https://blog.logrocket.com/css-utility-classes-library-extendable-styles/>
-What CSS utility classes are and why you should be using them.
-*RUSSELL BISHOP*
+文章介绍了CSS工具类是什么和为什么使用CSS工具类。
+*来源：RUSSELL BISHOP*
 
-### Making a PWA out of the Classic 1996 'Space Jam' Site
+### 基于1996年的“Space Jam”的网站，做了一个PWA网站
 <https://www.zachleat.com/web/space-jam/>
-A fun recreation of the seemingly everlasting Space Jam website. See the end result here.
-*ZACH LEATHERMAN*
+对看起来似乎永远不过时的网站“Space Jam”有趣的重写。
+*来源ZACH LEATHERMAN*
 
-### The Problem with Dropdown Fields (..and What You Should Use Instead)
+### 选择元素的问题（以及应该什么情况下替代）
 <https://designsmarts.co/the-problem-with-dropdowns/>
-*DESIGN SMARTS*
+*来源：DESIGN SMARTS*
 
-## 🔧 Code, Tools & Resources
-### Sal: Lightweight Scroll Animation Library 
+## 🔧 代码, 工具 & 资源
+### Sal: 轻量的滚动动画库
 <https://mciastek.github.io/sal/>
-Coming in at just 2.8KB, this vanilla JS library is performance focused with no dependencies. GitHub repo.
-*MIROSŁAW CIASTEK*
+仅2.8KB，原生的Js库，专注于性能，没有依赖。
+*来源：MIROSŁAW CIASTEK*
 
-### FitText in CSS 
+### CSS中的FitText
 <https://codepen.io/davatron5000/full/ZEEepRp>
-Remember the old jQuery plugin called FitText? Well, here it is recreated in (very modern — Chrome 79+ needed) CSS. Perhaps not quite ready for prime time but a cute idea.
-*DAVE RUPERT*(CODEPEN)
+还记得jQuery之前那个名为FitText的插件吗？这个是用非常新颖，Chrome 79+支持的CSS重写的。可能和之前的那个插件还有些距离，但是确实是一个很好的想法。
+*来源：DAVE RUPERT*(CODEPEN)
 
-### Looking to Build Leading Search Experiences with Ease?
+### 想要有轻松的搭建一流的搜索功能的体验？
 <https://info.elastic.co/app-search-trial-v9.html?ultron=app-search-trial&blade=cooperpress-sponsored-oct-30&hulk=cpc>
-Elastic App Search brings the power and scalability of Elasticsearch to ecommerce sites, mobile apps and more. Try free.
+Elastic App Search将Elasticsearch的功能和可扩展性带入了电子商务网站，移动应用程序等。可免费试用。
 *ELASTIC.CO*(ELASTIC.CO SPONSOR)
 
-### GRID: A Simple Visual Cheatsheet for CSS Grid Layout 
+### GRID: 关于CSS网格布局的一个简单并且可见的例子合集。
 <http://grid.malven.co/>
-A list of visually displayed properties available in CSS Grid Layout. Tap or click to copy to keyboard.
-*MALVEN CO.*
+CSS网格布局中可用的可展示的属性列表。点击后可以复制。
+*来源：MALVEN CO.*
 
-### JAMstack Themes
+### JAMstack主题
 <https://jamstackthemes.dev/>
-A list of themes and starters for JAMstack sites filterable by the supported generator and/or CMS.
-*STACKBIT*
+JAMstack站点的主题和启动器的列表，可以通过生成器或者CMS进行过滤
+*来源：STACKBIT*
 
-### Minimal Wim
-An experiment in minimal typography based on the work of Dutch designer Wim Crouwel.
-*BOOREILAND*
+### 最小的字体
+荷兰设计师Wim Crouwel设计的最小的印刷字体的试验。
+*来源：BOOREILAND*
 
-## 🗓 Upcoming Events
-### VueConfTO 2019, November 11-12 — Toronto, Canada
+## 🗓 未来大事记
+### VueConfTO 2019, 11月11日-12日 — 多伦多加拿大
 <https://vuetoronto.com/>
-The first ever Vue Conference in Canada.
+在加拿大的首场Vue会议。
 
-### Chrome Dev Summit, November 11-12 — San Francisco, USA 
+### Chrome开发者峰会, 11月11日-12日 — 美国旧金山
 <https://developer.chrome.com/devsummit/>
-A two-day summit to learn about the latest from Chrome, plus techniques for building the modern Web. Note: Registrations are now closed, but the event can be joined remotely.
+为期两天的峰会，了解Chrome的最新动向以及构建现代Web项目的技术。注：现在已关闭注册，但是可以远程加入活动。
 
-### Performance Now, November 21-22 — Amsterdam, Netherlands
+### Performance Now, 11月21日-22日 - 荷兰阿姆斯特丹
 <https://perfnow.nl/>
-A single track conference with fourteen speakers, covering the most important web perf insights.
+一个由14名发言人组成的只有这么一个议题的会议，包括关于对网络性能的见解。
 
-### HalfStack Conf, November 22 — London, UK
+### HalfStack Conf, 11月22日 — 英国伦敦
 <https://halfstackconf.com/london/>
-A single day event focused on UI-centric JavaScript and web development.
+为期一天的活动，重点关注以UI为中心的JavaScript和web开发。
 
-### Frontend Con, November 26-27 — Warsaw, Poland
+### Frontend Con, 11月26日-27日 — 波兰华沙
 <https://frontend-con.io/>
-Brings together 30+ experts with over 500 experienced frontend pros from all over the world.
+汇集了30多位专家以及来自世界各地的500多位经验丰富的前端专家。
 
-### dotCSS, December 4 — Paris, France
+### dotCSS, 12月4日 — 法国巴黎
 <https://www.dotcss.io/>
-The largest CSS conference in Europe.
+欧洲最大的CSS会议。
